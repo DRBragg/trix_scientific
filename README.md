@@ -1,5 +1,7 @@
 # Trix Scientific
 
+[![Gem Version](https://badge.fury.io/rb/trix_scientific.svg)](https://badge.fury.io/rb/trix_scientific)
+
 A modified version of Basecamp's [Trix editor](http://trix-editor.org) for use in scientific applications.
 
 Modifications include:
